@@ -1,5 +1,6 @@
 # custom additions - don't include txt or json files
 *.txt
+!requirements.txt
 *.json
 
 *.save
